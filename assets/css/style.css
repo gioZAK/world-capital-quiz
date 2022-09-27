@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(102, 102, 102, 0.884);
+    background-image: url(../images/background-img-min.jpg);
+}
+
+#container {
+    text-align: center;
+    background-color: aliceblue;
+    width: 80vw;
+    margin: auto;
+}
+
+.question {
+    width: 50vw;
+    text-align: center;
+    display: grid;
+    grid-auto-flow: row;
+    margin: auto;
+}
